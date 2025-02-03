@@ -48,3 +48,4 @@ Once everything was working as expected, I documented the entire process, detail
 This task helped me gain practical experience in cloud monitoring, alarm configuration, and alerting within the AWS ecosystem. It also provided valuable insights into the importance of proactive monitoring to ensure that applications remain healthy and performant in the cloud.
 
 ##OUTPUT
+![Image](https://github.com/user-attachments/assets/b5a88afc-8e72-4c73-a463-01a1b9ba1472)
