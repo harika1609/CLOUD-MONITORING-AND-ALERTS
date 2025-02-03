@@ -50,4 +50,6 @@ This task helped me gain practical experience in cloud monitoring, alarm configu
 ##OUTPUT
 ![Image](https://github.com/user-attachments/assets/b5a88afc-8e72-4c73-a463-01a1b9ba1472)
 
+![Image](https://github.com/user-attachments/assets/1ca1c0ba-49de-455f-9796-af26c0533f1e) 
+
 https://cloudwatch.amazonaws.com/dashboard.html?dashboard=mydashboard&context=eyJSIjoidXMtZWFzdC0xIiwiRCI6ImN3LWRiLTg0NDAzMDEyNDYzOSIsIlUiOiJ1cy1lYXN0LTFfNWJjbkZ4WVNJIiwiQyI6InVocDN2anM1Mm9zY2RqOHV0bG5wdWNvYzMiLCJJIjoidXMtZWFzdC0xOjIzMTQ1NTc5LTVjNDUtNDFhNi1hNDgyLTAyMTdiMzA4NGRiYyIsIk8iOiJhcm46YXdzOmlhbTo6ODQ0MDMwMTI0NjM5OnJvbGUvc2VydmljZS1yb2xlL0NXREJTaGFyaW5nLVB1YmxpY1JlYWRPbmx5QWNjZXNzLVBJSk9JQlk5IiwiTSI6IlB1YmxpYyJ9
